@@ -20,7 +20,8 @@ To begin using this site, choose one of the following options to get started:
 ## Start the project
 The project is started with the regular python commands.
 
-1. Run `python ec2_automation.py` to install all dependencies.
-2. Select option '1-6' to interact with the script
+1. You need to make sure you to have AWS default credentials setup in ~/.aws/credentials
+2. Run `python ec2_automation.py` to install all dependencies.
+3. Select option '1-6' to interact with the script
 
 
