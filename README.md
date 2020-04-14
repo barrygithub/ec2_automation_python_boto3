@@ -6,7 +6,7 @@
 * Default session with client and service resource class  
 * Create, Start, Stop, Terminate instances
 * Using waiter status check
-* Loop through dictionary and list to display instance information
+* Loop through dictionaries and lists to display instance information
 
 ![Imgur](https://i.imgur.com/NvRIVOs.png)
 
